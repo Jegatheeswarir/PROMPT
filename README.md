@@ -63,17 +63,17 @@ Step 7: Finalize and Export
 
 ## 1. Foundational Concepts of Generative AI
 
-Generative Artificial Intelligence (GenAI) refers to AI systems capable of creating new content—such as text, images, audio, or code—in response to user prompts. These systems learn patterns from vast datasets and generate outputs that mimic human-like creativity and coherence.([Medium][1])
+Generative Artificial Intelligence (GenAI) refers to AI systems capable of creating new content—such as text, images, audio, or code—in response to user prompts. These systems learn patterns from vast datasets and generate outputs that mimic human-like creativity and coherence.
 
 Key components include:
 
 * **Training Data**: Large, diverse datasets that the model learns from.
 * **Model Architecture**: The underlying structure that processes and generates content.
-* **Inference Mechanism**: The process by which the model generates outputs based on new inputs.([rollbyadp.com][2])
+* **Inference Mechanism**: The process by which the model generates outputs based on new inputs.
 
 ## 2. Generative AI Architectures: Focus on Transformers
 
-Transformers have revolutionized GenAI by enabling models to process and generate sequences of data efficiently. Unlike previous architectures, transformers utilize a mechanism called **self-attention**, allowing models to weigh the importance of different words in a sentence regardless of their position.([Pluralsight][3])
+Transformers have revolutionized GenAI by enabling models to process and generate sequences of data efficiently. Unlike previous architectures, transformers utilize a mechanism called **self-attention**, allowing models to weigh the importance of different words in a sentence regardless of their position.
 
 ### Key Features of Transformer Architecture:
 
@@ -86,19 +86,19 @@ This architecture underpins models like GPT (Generative Pre-trained Transformer)
 
 ## 3. Applications of Generative AI
 
-GenAI has diverse applications across various industries:([Coursera][4])
+GenAI has diverse applications across various industries:
 
 * **Healthcare**: Generating synthetic medical data for research and training.
 * **Entertainment**: Creating music, art, and video content.
 * **Finance**: Automating report generation and financial analysis.
 * **Customer Service**: Developing chatbots and virtual assistants.
-* **Education**: Personalizing learning experiences and content creation.([Coursera][4])
+* **Education**: Personalizing learning experiences and content creation.
 
 These applications enhance efficiency, creativity, and personalization in their respective fields.&#x20;
 
 ## 4. Impact of Scaling in Large Language Models (LLMs)
 
-Scaling refers to increasing the size of the model (number of parameters), the dataset, and the computational resources. Research indicates that larger models tend to perform better, but with diminishing returns beyond a certain point.([arXiv][5])
+Scaling refers to increasing the size of the model (number of parameters), the dataset, and the computational resources. Research indicates that larger models tend to perform better, but with diminishing returns beyond a certain point.
 
 ### Observations on Scaling:
 
@@ -106,7 +106,7 @@ Scaling refers to increasing the size of the model (number of parameters), the d
 * **Diminishing Returns**: After a certain scale, additional increases in size yield smaller improvements.
 * **Resource Intensiveness**: Scaling requires significant computational power and energy, raising concerns about sustainability.
 
-Understanding these scaling laws helps in optimizing model development and resource allocation. ([Medium][6])
+Understanding these scaling laws helps in optimizing model development and resource allocation. 
 
 ## Conclusion
 
