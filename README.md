@@ -162,7 +162,7 @@ Large Language Models (LLMs) are a type of artificial intelligence that can unde
 # Growth over the years
 ![image](https://github.com/user-attachments/assets/aee8f36d-9e19-4253-bd24-a9e9ada000e9)
 
-## Conclusion  
+# Conclusion  
 Generative AI stands at the forefront of technological innovation, offering transformative capabilities across various domains. By leveraging advanced architectures like transformers and understanding the implications of scaling, researchers and practitioners can harness the potential of generative models responsibly and effectively. The continued evolution of this field promises exciting advancements that can reshape industries and everyday experiences.  
 
 # Result
