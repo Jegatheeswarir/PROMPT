@@ -111,16 +111,6 @@ Understanding these scaling laws helps in optimizing model development and resou
 ## Conclusion
 
 Generative AI, particularly through transformer architectures, has transformed content creation across various sectors. While scaling LLMs has led to significant advancements, it's crucial to balance performance gains with resource considerations. Future developments may focus on optimizing models for efficiency and exploring alternative architectures to sustain progress in GenAI.([Financial Times][7])
-
-If you require further details or specific information on any of these topics, feel free to ask!
-[1]: https://medium.com/%40bhaxkar/what-is-generative-ai-and-how-transformers-make-it-possible-b2668fa661a5?utm_source=chatgpt.com "What is Generative AI and How Transformers Make it Possible"
-[2]: https://www.rollbyadp.com/blog/grow-your-business/generative-ai-examples?utm_source=chatgpt.com "5 Generative AI Examples & How They Can Transform Your Business"
-[3]: https://www.pluralsight.com/resources/blog/ai-and-data/what-are-transformers-generative-ai?utm_source=chatgpt.com "What are transformers in Generative AI? - Pluralsight"
-[4]: https://www.coursera.org/articles/generative-ai-applications?utm_source=chatgpt.com "20 Examples of Generative AI Applications Across Industries"
-[5]: https://arxiv.org/html/2505.00985v2?utm_source=chatgpt.com "Position: Enough of Scaling LLMs! Lets Focus on Downscaling - arXiv"
-[6]: https://medium.com/%40santhosraj14/unlocking-the-secrets-of-scaling-laws-how-large-language-models-reach-new-heights-9e8b566779b5?utm_source=chatgpt.com "Scaling law in Large Language Models | Medium"
-[7]: https://www.ft.com/content/d01290c9-cc92-4c1f-bd70-ac332cd40f94?utm_source=chatgpt.com "Is AI hitting a wall?"
-
 Generative AI stands at the forefront of technological innovation, offering transformative capabilities across various domains. By leveraging advanced architectures like transformers and understanding the implications of scaling, researchers and practitioners can harness the potential of generative models responsibly and effectively. The continued evolution of this field promises exciting advancements that can reshape industries and everyday experiences.  
 
 <img width="460" height="681" alt="Screenshot 2025-08-20 210129" src="https://github.com/user-attachments/assets/11ad6359-8127-412b-ac49-0dc738684996" />
