@@ -174,12 +174,6 @@ Scaling refers to increasing the size of the model (number of parameters), the d
 
 Understanding these scaling laws helps in optimizing model development and resource allocation. ([Medium][6])
 
-## Visual Representation
-
-![Transformer Architecture](https://upload.wikimedia.org/wikipedia/commons/6/61/Transformer_Model.png)
-
-*Figure: Simplified illustration of the Transformer model architecture.*
-
 ## Conclusion
 
 Generative AI, particularly through transformer architectures, has transformed content creation across various sectors. While scaling LLMs has led to significant advancements, it's crucial to balance performance gains with resource considerations. Future developments may focus on optimizing models for efficiency and exploring alternative architectures to sustain progress in GenAI.([Financial Times][7])
